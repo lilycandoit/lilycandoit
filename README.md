@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Lily (or Lì) 👋
 
-<!--
-**lilycandoit/lilycandoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack software engineering student at Holberton School Australia, learning by building and collaborating on real projects.
 
-Here are some ideas to get you started:
+My close friends call me **Lì** — it means *refuse to give up*, and that mindset carries me through every challenge I face in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before this, I worked in digital marketing for tech. Curiosity led me to code — and I haven’t looked back.
+
+I love figuring out how things work behind the scenes and building tools that make life easier or more fun.
+
+<br>
+
+🌱 When I’m not coding, I enjoy writing, learning about myself, exploring AI tools, and spending time in nature.
+
+---
+
+### 📫 Connect with me  
+- 🌐 [Portfolio](https://lily-portfolio.vercel.app)  
+- 💼 [LinkedIn](https://linkedin.com/in/lilyduong)  
+- 📧 Email: hueduong288@gmail.com
