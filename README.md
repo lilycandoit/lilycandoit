@@ -10,7 +10,7 @@ I love figuring out how things work behind the scenes and building tools that ma
 
 <br>
 
-🌱 When I’m not coding, I enjoy writing, learning about myself, exploring AI tools, and spending time in nature.
+🌱 When I’m not coding, I enjoy writing, learning about myself, exploring AI tools, or spending time in nature.
 
 ---
 
