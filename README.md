@@ -1,4 +1,4 @@
-### Hi, I'm Lily (or Lì) 👋
+### Hi, I'm Lily (Lì) 👋
 
 I’m a full-stack software engineering student at Holberton School Australia, learning by building and collaborating on real projects.
 
@@ -17,4 +17,4 @@ I love figuring out how things work behind the scenes and building tools that ma
 ### 📫 Connect with me  
 - 🌐 [Portfolio](https://lily-portfolio.vercel.app)  
 - 💼 [LinkedIn](https://linkedin.com/in/lilyduong)  
-- 📧 Email: hueduong288@gmail.com
+- 📧 hueduong288@gmail.com
